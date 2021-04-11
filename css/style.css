@@ -9479,8 +9479,14 @@ input:focus, textarea:focus {
   background: #fff;
 }
 
+/*DAPO CSS*/
+.cursor-pointer {
+  cursor: pointer;
+}
 
-
+.ally-order {
+  
+}
 
 
 
